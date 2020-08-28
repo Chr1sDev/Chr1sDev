@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Chr1sDev/Chr1sDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Chr1sDev's GitHub 💻
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Personal Site[https://chr1s.dev]
+Tweak Repository[https://repo.chr1s.dev]
