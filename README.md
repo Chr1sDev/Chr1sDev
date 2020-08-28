@@ -4,13 +4,13 @@
 [![chat](https://img.shields.io/discord/700453406061494292?style=flat-square)](https://discord.gg/EKZyXfM)
 
 - To-Do:
-- [ ] GIPHY API Discord Bot
-- [ ] chr1s.dev website
-- [ ] tweak repo
-- [ ] music commands for discord bot
-- [ ] image upscaler api w/ discord bot
-- [ ] JiggleMode iOS tweak
-- [ ] Parcility API w/ discord bot
+  - [ ] GIPHY API Discord Bot
+  - [ ] chr1s.dev website
+  - [ ] tweak repo
+  - [ ] music commands for discord bot
+  - [ ] image upscaler api w/ discord bot
+  - [ ] JiggleMode iOS tweak
+  - [ ] Parcility API w/ discord bot
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with
