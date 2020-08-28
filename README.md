@@ -1,7 +1,6 @@
 ### Chr1sDev's GitHub 💻
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-[![license](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https://chr1s.dev
-style=flat-square)](LICENSE)
+[![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=chr1s.dev&style=flat-square&up_color=limegreen&up_message=online&url=https%3A%2F%2Fchr1s.dev)
 [![chat](https://img.shields.io/discord/700453406061494292?style=flat-square)](https://discord.gg/EKZyXfM)
 
 - 🔭 I’m currently working on ...
