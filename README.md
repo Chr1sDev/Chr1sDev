@@ -18,10 +18,11 @@
   - Python
   - Objective-c
 - 📫 Socials:
-  [![Twitter](https://lh3.googleusercontent.com/proxy/yqbV-ML8U61lubrJybbvYC3hhRi0GoF4SBYrR-O5jE9ZoxfDYpBeggDa81kp6A1CLv2-Flgf9DKG7qRQHqcWq6cvDeVL07_KF0_eW6rgWIBtKczv6-s)](https://twitter.com/Chr1sDev)
+  [![Twitter](https://abs.twimg.com/errors/logo23x19@2x.png)](https://twitter.com/Chr1sDev)
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
 [Personal Site](https://chr1s.dev)
 
 [Tweak Repository](https://repo.chr1s.dev)
+
