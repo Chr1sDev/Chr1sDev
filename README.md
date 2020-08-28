@@ -9,5 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Personal Site[https://chr1s.dev]
-Tweak Repository[https://repo.chr1s.dev]
+[Personal Site](https://chr1s.dev)
+[Tweak Repository](https://repo.chr1s.dev)
