@@ -20,6 +20,7 @@
 - 📫 Socials:
 
   [![Twitter](https://abs.twimg.com/errors/logo23x19@2x.png)](https://twitter.com/Chr1sDev)
+  [![Discord.bio](https://chr1s.dev/assets/disc.png)](dsc.bio/chr1sdev)
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
