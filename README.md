@@ -18,6 +18,7 @@
   - Python
   - Objective-c
 - 📫 Socials:
+
   [![Twitter](https://abs.twimg.com/errors/logo23x19@2x.png)](https://twitter.com/Chr1sDev)
 - 😄 Pronouns:
 - ⚡ Fun fact:
