@@ -3,7 +3,7 @@
 [![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=chr1s.dev&style=flat-square&up_color=limegreen&up_message=online&url=https%3A%2F%2Fchr1s.dev)](https://chr1s.dev)
 [![chat](https://img.shields.io/discord/700453406061494292?style=flat-square)](https://discord.gg/EKZyXfM)
 
-- To-Do:
+- 😴To-Do:
   - [ ] GIPHY API Discord Bot
   - [ ] chr1s.dev website
   - [ ] tweak repo
