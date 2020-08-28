@@ -1,4 +1,8 @@
 ### Chr1sDev's GitHub 💻
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![license](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https://chr1s.dev
+style=flat-square)](LICENSE)
+[![chat](https://img.shields.io/discord/700453406061494292?style=flat-square)](https://discord.gg/EKZyXfM)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
