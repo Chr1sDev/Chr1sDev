@@ -11,11 +11,14 @@
   - [ ] image upscaler api w/ discord bot
   - [ ] JiggleMode iOS tweak
   - [ ] Parcility API w/ discord bot
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with
-- 💬 Ask me about
-- 📫 How to reach me:
+- 🔢Languages I know (most to least)
+  - Javascript
+  - html/css
+  - C
+  - Python
+  - Objective-c
+- 📫 Socials:
+  [![Twitter](https://lh3.googleusercontent.com/proxy/yqbV-ML8U61lubrJybbvYC3hhRi0GoF4SBYrR-O5jE9ZoxfDYpBeggDa81kp6A1CLv2-Flgf9DKG7qRQHqcWq6cvDeVL07_KF0_eW6rgWIBtKczv6-s)](https://twitter.com/Chr1sDev)
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
