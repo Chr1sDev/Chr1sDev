@@ -6,7 +6,7 @@
 - 😴To-Do:
   - [ ] GIPHY API Discord Bot
   - [ ] chr1s.dev website
-  - [ ] tweak repo
+  - [x] tweak repo
   - [ ] music commands for discord bot
   - [ ] image upscaler api w/ discord bot
   - [ ] JiggleMode iOS tweak
