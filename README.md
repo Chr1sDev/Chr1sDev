@@ -11,6 +11,7 @@
   - [ ] image upscaler api w/ discord bot
   - [ ] JiggleMode iOS tweak
   - [ ] Parcility API w/ discord bot
+  - [x] Get repo on parcility
 - 🔢Languages I know (most to least)
   - Javascript
   - html/css
