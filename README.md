@@ -4,7 +4,7 @@
 [![chat](https://img.shields.io/discord/700453406061494292?style=flat-square)](https://discord.gg/EKZyXfM)
 
 - 😴To-Do:
-  - [ ] GIPHY API Discord Bot
+  ~~- [ ] GIPHY API Discord Bot~~
   - [ ] chr1s.dev website
   - [x] tweak repo
   - [ ] music commands for discord bot
