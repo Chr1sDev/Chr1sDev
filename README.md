@@ -13,7 +13,7 @@
   - [ ] ~~Parcility API w/ discord bot~~
   - [x] Get repo on parcility
 - 🔢Languages I know (most to least)
-  - Javascript
+  - Javascript/TypeScript
   - html/css
   - C
   - Objective-c
