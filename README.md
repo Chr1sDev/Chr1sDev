@@ -3,21 +3,22 @@
 [![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=chr1s.dev&style=flat-square&up_color=limegreen&up_message=online&url=https%3A%2F%2Fchr1s.dev)](https://chr1s.dev)
 [![chat](https://img.shields.io/discord/700453406061494292?style=flat-square)](https://discord.gg/EKZyXfM)
 
+Favorite Project:
+- Anime Bible
+
 - 😴To-Do:
-  - [ ] ~~GIPHY API Discord Bot~~
   - [ ] chr1s.dev website
   - [x] tweak repo
-  - [ ] music commands for discord bot
-  - [ ] ~~image upscaler api w/ discord bot~~
+  - [ ] shoukaku music commands for discord bot
   - [x] JiggleMode iOS tweak
-  - [ ] ~~Parcility API w/ discord bot~~
   - [x] Get repo on parcility
-- 🔢Languages I know (most to least)
+  - [ ] Get bot verfied on top.gg, almost done
+  - [ ] Get bot verified by discord pog
+- 🔢Languages I know ... kinda
   - Javascript/TypeScript
   - html/css
   - C
   - Objective-c
-  - Python
 - 📫 Socials:
 
   [![Twitter](https://abs.twimg.com/errors/logo23x19@2x.png)](https://twitter.com/Chr1sDev)
