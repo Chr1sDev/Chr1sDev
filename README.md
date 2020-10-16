@@ -18,7 +18,7 @@
   - Javascript/TypeScript
   - html/css
   - C
-  - Objective-c
+  - Objective-C
   - Lua
 - 📫 Socials:
 
