@@ -19,6 +19,7 @@
   - html/css
   - C
   - Objective-c
+  - Lua
 - 📫 Socials:
 
   [![Twitter](https://abs.twimg.com/errors/logo23x19@2x.png)](https://twitter.com/Chr1sDev)
