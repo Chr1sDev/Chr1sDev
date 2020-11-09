@@ -17,8 +17,8 @@
 - 🔢Languages I know ... kinda
   - Javascript/TypeScript
   - html/css
-  - C
   - Objective-C
+  - C
   - Lua
 - 📫 Socials:
 
