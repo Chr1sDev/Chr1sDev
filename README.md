@@ -9,10 +9,9 @@
 - 😴To-Do:
   - [ ] chr1s.dev website
   - [x] tweak repo
-  - [ ] shoukaku music commands for discord bot
   - [x] JiggleMode iOS tweak
   - [x] Get repo on parcility
-  - [ ] Get bot verfied on top.gg, almost done
+  - [x] Get bot verfied on top.gg, almost done
   - [ ] Get bot verified by discord pog
 - 🔢Languages I know ... kinda
   - Javascript/TypeScript
