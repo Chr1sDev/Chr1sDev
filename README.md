@@ -28,3 +28,5 @@
 
 [Tweak Repository](https://repo.chr1s.dev)
 
+[Top.gg](https://top.gg/bot/763464598959292458)
+
