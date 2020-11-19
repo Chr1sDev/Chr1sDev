@@ -11,7 +11,7 @@
   - [x] tweak repo
   - [x] JiggleMode iOS tweak
   - [x] Get repo on parcility
-  - [x] Get bot verfied on top.gg, almost done
+  - [x] Get bot verfied on top.gg
   - [ ] Get bot verified by discord pog
 - 🔢Languages I know ... kinda
   - Javascript/TypeScript
