@@ -7,7 +7,7 @@
   - Anime Bible
 
 - 😴To-Do:
-  - [ ] chr1s.dev website
+  - [x] chr1s.dev website
   - [x] tweak repo
   - [x] JiggleMode iOS tweak
   - [x] Get repo on parcility
