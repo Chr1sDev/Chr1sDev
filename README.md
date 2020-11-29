@@ -13,6 +13,7 @@
   - [x] Get repo on parcility
   - [x] Get bot verfied on top.gg
   - [x] Get bot verified by discord pog
+  - [ ] Add new things to the to-do
 - 🔢Languages I know ... kinda
   - Javascript/TypeScript
   - html/css
