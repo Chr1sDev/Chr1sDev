@@ -8,7 +8,7 @@
 
 - 😴To-Do:
   - [ ] Finish ColorSpring
-- 🔢Languages I know ... kinda
+- 🔢Languages I (think) know
   - Javascript/TypeScript
   - html/css
   - Objective-C/C
