@@ -7,13 +7,7 @@
   - Anime Bible
 
 - 😴To-Do:
-  - [x] chr1s.dev website
-  - [x] tweak repo
-  - [x] JiggleMode iOS tweak
-  - [x] Get repo on parcility
-  - [x] Get bot verfied on top.gg
-  - [x] Get bot verified by discord pog
-  - [ ] Add new things to the to-do
+  - [] Finish ColorSpring
 - 🔢Languages I know ... kinda
   - Javascript/TypeScript
   - html/css
