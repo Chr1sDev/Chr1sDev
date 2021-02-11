@@ -10,8 +10,8 @@
 - 💖Favorite Project:
   - Anime Bible
 
-- 😴To-Do:
-  - [ ] Finish ColorSpring
+- 🔨What I'm working on:
+  - Ringer Actions
 - 🔢Languages I (think) know
   - Javascript/TypeScript
   - html/css
