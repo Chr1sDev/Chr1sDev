@@ -11,7 +11,7 @@
   - Anime Bible
 
 - 🔨What I'm working on:
-  - Ringer Actions
+  - Finishing obj-c course
 - 🔢Languages I (think) know
   - Javascript/TypeScript
   - html/css
