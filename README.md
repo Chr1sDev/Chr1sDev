@@ -14,8 +14,8 @@
   - Finishing obj-c course
 - 🔢Languages I (think) know
   - Javascript/TypeScript
-  - html/css
   - Objective-C/C
+  - html/css
   - Python
   - Lua hahahahahahaa jk .__.
 - 📫 Socials:
