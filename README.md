@@ -18,6 +18,7 @@
   - html/css
   - Python
   - Lua hahahahahahaa jk .__.
+  - Learning Rust
 - 📫 Socials:
 
   [![Twitter](https://abs.twimg.com/errors/logo23x19@2x.png)](https://twitter.com/Chr1sDev)
