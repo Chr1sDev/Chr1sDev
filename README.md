@@ -12,12 +12,11 @@
 
 - 🔨What I'm working on:
   - Finishing obj-c course
-- 🔢Languages I (think) know
+- 🔢Languages I think I know
   - Javascript/TypeScript
   - Objective-C/C
   - html/css
-  - Python
-  - Lua hahahahahahaa jk .__.
+  - Python kinda not rly
   - Learning Rust
 - 📫 Socials:
 
