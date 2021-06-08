@@ -26,14 +26,14 @@
 [Top.gg](https://top.gg/bot/763464598959292458)
 
 My Tweaks:
-Gears - Packix
-RingerActions - Packix
-CopyKey - Packix
-DigitalClock - Packix
-ChatWall - Packix
-Vibin - Packix
-ReachTheNekos - repo.chr1s.dev
-NewTab - repo.chr1s.dev
-Current - repo.chr1s.dev
-Atlas - repo.packix.com
+- Gears - Packix
+- RingerActions - Packix
+- CopyKey - Packix
+- DigitalClock - Packix
+- ChatWall - Packix
+- Vibin - Packix
+- ReachTheNekos - repo.chr1s.dev
+- NewTab - repo.chr1s.dev
+- Current - repo.chr1s.dev
+- Atlas - repo.packix.com
 
