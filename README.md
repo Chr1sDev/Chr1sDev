@@ -12,6 +12,7 @@
 - 🔢Languages I think I know
   - Javascript
   - Objective-C/C
+  - Swift
   - html/css
   - Java
 - 📫 Socials:
